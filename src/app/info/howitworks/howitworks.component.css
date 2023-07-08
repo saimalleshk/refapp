@@ -1,0 +1,22 @@
+.timeline img {
+    width: 80px;
+}
+
+.timeline p {
+    font-size: 25px;
+}
+
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#howitworksfaq {
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+    margin-top: 200px;
+}
